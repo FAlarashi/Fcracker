@@ -6,7 +6,7 @@ Fcracker is a password cracking tool with an easy to use interface, where you ca
 
 Clone the repository:
 ```bash
-git clone https://github.com/your_username/Fcracker.git
+git clone https://github.com/falarashi/Fcracker.git
 ```
 
 
